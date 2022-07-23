@@ -1,0 +1,2 @@
+Aplicativo que simula um sorteio de Mega Sena podendo você mesmo escolher o numero do seu bilhete ou ser escolhido automaticamente pela máquina!
+Salvando em arquivo txt.

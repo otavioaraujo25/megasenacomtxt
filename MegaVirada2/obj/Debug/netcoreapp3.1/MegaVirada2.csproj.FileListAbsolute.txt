@@ -1,0 +1,39 @@
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.exe
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.deps.json
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.runtimeconfig.json
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.dll
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.pdb
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.dll
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.pdb
+C:\Users\lucas\source\repos\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.genruntimeconfig.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.exe
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.deps.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.runtimeconfig.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.runtimeconfig.dev.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.dll
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.pdb
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.AssemblyInfoInputs.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.AssemblyInfo.cs
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.dll
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.pdb
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada Apresentacao\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.genruntimeconfig.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.exe
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.deps.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.runtimeconfig.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.runtimeconfig.dev.json
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.dll
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\bin\Debug\netcoreapp3.1\MegaVirada2.pdb
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.csprojAssemblyReference.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.AssemblyInfoInputs.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.AssemblyInfo.cs
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.dll
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.pdb
+C:\Users\Otavio\Desktop\Faculdade 2 Ano\POO\2 Bimestre\MegaDaVirada\MegaVirada2\MegaVirada2\obj\Debug\netcoreapp3.1\MegaVirada2.genruntimeconfig.cache
